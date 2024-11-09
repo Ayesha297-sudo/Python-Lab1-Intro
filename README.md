@@ -6,7 +6,7 @@ This repository contains solutions to introductory Python programming tasks, cov
 - Accessing nested lists and dictionaries
 - Extracting domains from email addresses
 - Counting and finding words in strings
-- Using lambda functions with `filter()`
+- Using functions with `in,split()`,
 - Categorizing speed limits with conditional logic
 
 ## How to Run
